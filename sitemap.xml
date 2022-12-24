@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  
+  <url>
+    <loc>http://lostaway.cc/about/index.html</loc>
+    
+    <lastmod>2022-12-24</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://lostaway.cc/tags/index.html</loc>
+    
+    <lastmod>2022-12-24</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://lostaway.cc/categories/index.html</loc>
+    
+    <lastmod>2022-12-24</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://lostaway.cc/404.html</loc>
+    
+    <lastmod>2022-12-24</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://lostaway.cc/cn/Hexo-Theme-LiveMyLife/</loc>
+    
+    <lastmod>2020-04-16</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://lostaway.cc/en/Hexo-Theme-LiveMyLife/</loc>
+    
+    <lastmod>2020-04-16</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://lostaway.cc/archive/index.html</loc>
+    
+    <lastmod>2017-03-20</lastmod>
+    
+  </url>
+  
+
+  <url>
+    <loc>http://lostaway.cc/</loc>
+    <lastmod>2022-12-24</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  
+  <url>
+    <loc>http://lostaway.cc/tags/Hexo-Theme-LiveMyLife/</loc>
+    <lastmod>2022-12-24</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+
+  
+  <url>
+    <loc>http://lostaway.cc/categories/Hexo-Theme-LiveMyLife/</loc>
+    <lastmod>2022-12-24</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+</urlset>
