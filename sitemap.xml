@@ -130,36 +130,36 @@
 
   <url>
     <loc>http://lostaway.cc/</loc>
-    <lastmod>2022-12-25</lastmod>
+    <lastmod>2022-12-26</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
 
   
   <url>
-    <loc>http://lostaway.cc/tags/MySQL/</loc>
-    <lastmod>2022-12-25</lastmod>
+    <loc>http://lostaway.cc/tags/Hexo-Theme-LiveMyLife/</loc>
+    <lastmod>2022-12-26</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
-    <loc>http://lostaway.cc/tags/Hexo-Theme-LiveMyLife/</loc>
-    <lastmod>2022-12-25</lastmod>
+    <loc>http://lostaway.cc/tags/MySQL/</loc>
+    <lastmod>2022-12-26</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>http://lostaway.cc/tags/Web/</loc>
-    <lastmod>2022-12-25</lastmod>
+    <lastmod>2022-12-26</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>http://lostaway.cc/tags/Java/</loc>
-    <lastmod>2022-12-25</lastmod>
+    <lastmod>2022-12-26</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
@@ -167,15 +167,15 @@
 
   
   <url>
-    <loc>http://lostaway.cc/categories/%E4%B8%AA%E4%BA%BA%E7%AC%94%E8%AE%B0/</loc>
-    <lastmod>2022-12-25</lastmod>
+    <loc>http://lostaway.cc/categories/%E4%B8%AA%E4%BA%BA%E7%9B%B8%E5%86%8C/</loc>
+    <lastmod>2022-12-26</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
-    <loc>http://lostaway.cc/categories/%E4%B8%AA%E4%BA%BA%E7%9B%B8%E5%86%8C/</loc>
-    <lastmod>2022-12-25</lastmod>
+    <loc>http://lostaway.cc/categories/%E4%B8%AA%E4%BA%BA%E7%AC%94%E8%AE%B0/</loc>
+    <lastmod>2022-12-26</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
